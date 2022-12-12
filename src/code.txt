@@ -1,0 +1,95 @@
+ <NavDropdown title="MyCourse" id="basic-nav-dropdown">
+              <LinkContainer to="/Frontend">
+                <NavDropdown.Item>Frontend</NavDropdown.Item>
+              </LinkContainer>
+              <LinkContainer to="/Backend">
+                <NavDropdown.Item>Backend</NavDropdown.Item>
+              </LinkContainer>
+            </NavDropdown>
+
+// MyCourse
+
+import React from 'react'
+import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
+import Col from 'react-bootstrap/Col';
+import Row from 'react-bootstrap/Row';
+import '../css/all.css';
+import java from '../img/java.jpg';
+
+export default function MyCourse() {
+  const data = [
+    { title: "java", name: "John Doe"},
+    { title: "C Programing", name: "Victor Wayne"},
+    { title: "C++ Programing", name: "Jane Doe" },
+  ];
+  return (
+    <div className="lo">
+<Row xs={1} md={2} className="g-4">
+{data.map((sd) => (
+        <Col>
+          <Card >
+          <Card.Img variant="top" src={java} />
+            <Card.Body>
+              <Card.Title>{sd.title}</Card.Title>
+              <Card.Text>
+                Teacher Name : {sd.name}
+              </Card.Text>
+              <Button variant="success"> Schedule </Button>
+            </Card.Body>
+            <Card.Footer>
+          <small className="text-muted"> By {sd.name} </small>
+        </Card.Footer>
+          </Card>
+        </Col>
+))}
+    </Row>
+    </div>
+  )
+}
+
+
+// MyCourse
+
+import React from 'react'
+import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
+import Col from 'react-bootstrap/Col';
+import Row from 'react-bootstrap/Row';
+import '../css/all.css';
+import java from '../img/java.jpg'
+
+
+export default function Course() {
+  const data = [
+    { title: "Java", rupees: "500/month", duration: "3month/12 week", syllabus: "java and its basic" },
+    { title: "C Programing", rupees: "700/month", duration: "3month/12 week", syllabus: "C and its basic" },
+    { title: "C++ Programing", rupees: "800/month", duration: "3month/12 week", syllabus: "C++ and its basic" },
+  ];
+  return (
+    <div className="lo">
+      <Row xs={1} md={2} className="g-4">
+        {data.map((user) => (
+          <Col>
+            <Card>
+              <Card.Img variant="top" src={java} width={200} height={200} /> {/* is line me ap src me img map kardena  */}
+              <Card.Body>
+                <Card.Title> {user.title}</Card.Title>
+                <Card.Text>
+                  {user.rupees}
+                </Card.Text>
+                <Card.Text>
+                  {user.duration}
+                </Card.Text>
+                <Card.Text>
+                  {user.syllabus}
+                </Card.Text>
+                <Button variant="success">Enroll now</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+        ))}
+      </Row>
+    </div>
+  )
+}

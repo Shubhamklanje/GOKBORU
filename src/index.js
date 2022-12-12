@@ -2,16 +2,43 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import Homepage from './pages/Homepage';
+import Course from './pages/Course';
+import MyCourse from './pages/MyCourse';
+import Certificate from './pages/Cretificate';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+} from "react-router-dom";
+import Header from './pages/Header';
+import Register from './pages/Register';
+import Login from './pages/Login';
+import Schedule from './pages/Schedule';
+import Enroll from './pages/Enroll';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <Header />
+      <Routes>
+        <Route path="/Homepage" element={<Homepage />} />
+        <Route path="/Course" element={<Course />} />
+        <Route path="/MyCourse" element={<MyCourse />} />
+        <Route path="/Certificate" element={<Certificate />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/Contact" element={<Contact />} />
+        <Route path="/Login" element={<Login />} />
+        <Route path="/Register" element={<Register />} />
+        <Route path="/Schedule" element={<Schedule />} />
+        <Route path="/Enroll" element={<Enroll />} />
+        <Route path="/" element={<App />} />
+      </Routes>
+    </Router>
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
