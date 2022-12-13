@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GOKBORU/static/css/main.8175b498.css",
-    "main.js": "/GOKBORU/static/js/main.db4c157f.js",
+    "main.js": "/GOKBORU/static/js/main.16710751.js",
     "static/media/mentor3.jpg": "/GOKBORU/static/media/mentor3.f5e318883395c9b8628d.jpg",
     "static/media/whatsapp.jpg": "/GOKBORU/static/media/whatsapp.f0e45d0f18124fe756a4.jpg",
     "static/media/back.jpg": "/GOKBORU/static/media/back.d3fefc47fb2a30684b7a.jpg",
@@ -15,10 +15,10 @@
     "static/media/react.jpg": "/GOKBORU/static/media/react.7c262d650a673ac54510.jpg",
     "index.html": "/GOKBORU/index.html",
     "main.8175b498.css.map": "/GOKBORU/static/css/main.8175b498.css.map",
-    "main.db4c157f.js.map": "/GOKBORU/static/js/main.db4c157f.js.map"
+    "main.16710751.js.map": "/GOKBORU/static/js/main.16710751.js.map"
   },
   "entrypoints": [
     "static/css/main.8175b498.css",
-    "static/js/main.db4c157f.js"
+    "static/js/main.16710751.js"
   ]
 }
