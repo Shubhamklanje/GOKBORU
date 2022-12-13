@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5e5e7a9.css",
-    "main.js": "/static/js/main.49942cc8.js",
-    "static/media/mentor3.jpg": "/static/media/mentor3.f5e318883395c9b8628d.jpg",
-    "static/media/whatsapp.jpg": "/static/media/whatsapp.f0e45d0f18124fe756a4.jpg",
-    "static/media/back.jpg": "/static/media/back.d3fefc47fb2a30684b7a.jpg",
-    "static/media/python.jpg": "/static/media/python.dd44d9d98f91f7081f0d.jpg",
-    "static/media/unix.jpg": "/static/media/unix.fb620e51268ef0756a48.jpg",
-    "static/media/insta.jpg": "/static/media/insta.37866f4c34513cc1230f.jpg",
-    "static/media/c.jpg": "/static/media/c.92199a0b8875be60da4f.jpg",
-    "static/media/mentor2.jpeg": "/static/media/mentor2.8a2abea4419cf5ac3485.jpeg",
-    "static/media/java.jpg": "/static/media/java.75913f1f90440073e698.jpg",
-    "static/media/mentor1.jpeg": "/static/media/mentor1.139fed8bbe13a5fff838.jpeg",
-    "static/media/react.jpg": "/static/media/react.7c262d650a673ac54510.jpg",
-    "index.html": "/index.html",
-    "main.b5e5e7a9.css.map": "/static/css/main.b5e5e7a9.css.map",
-    "main.49942cc8.js.map": "/static/js/main.49942cc8.js.map"
+    "main.css": "/GOKBORU/static/css/main.8175b498.css",
+    "main.js": "/GOKBORU/static/js/main.db4c157f.js",
+    "static/media/mentor3.jpg": "/GOKBORU/static/media/mentor3.f5e318883395c9b8628d.jpg",
+    "static/media/whatsapp.jpg": "/GOKBORU/static/media/whatsapp.f0e45d0f18124fe756a4.jpg",
+    "static/media/back.jpg": "/GOKBORU/static/media/back.d3fefc47fb2a30684b7a.jpg",
+    "static/media/python.jpg": "/GOKBORU/static/media/python.dd44d9d98f91f7081f0d.jpg",
+    "static/media/unix.jpg": "/GOKBORU/static/media/unix.fb620e51268ef0756a48.jpg",
+    "static/media/insta.jpg": "/GOKBORU/static/media/insta.37866f4c34513cc1230f.jpg",
+    "static/media/c.jpg": "/GOKBORU/static/media/c.92199a0b8875be60da4f.jpg",
+    "static/media/mentor2.jpeg": "/GOKBORU/static/media/mentor2.8a2abea4419cf5ac3485.jpeg",
+    "static/media/java.jpg": "/GOKBORU/static/media/java.75913f1f90440073e698.jpg",
+    "static/media/mentor1.jpeg": "/GOKBORU/static/media/mentor1.139fed8bbe13a5fff838.jpeg",
+    "static/media/react.jpg": "/GOKBORU/static/media/react.7c262d650a673ac54510.jpg",
+    "index.html": "/GOKBORU/index.html",
+    "main.8175b498.css.map": "/GOKBORU/static/css/main.8175b498.css.map",
+    "main.db4c157f.js.map": "/GOKBORU/static/js/main.db4c157f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5e5e7a9.css",
-    "static/js/main.49942cc8.js"
+    "static/css/main.8175b498.css",
+    "static/js/main.db4c157f.js"
   ]
 }
