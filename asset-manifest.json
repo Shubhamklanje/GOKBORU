@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GOKBORU/static/css/main.d5934338.css",
-    "main.js": "/GOKBORU/static/js/main.d438e6d0.js",
+    "main.css": "/GOKBORU/static/css/main.2c8d0b09.css",
+    "main.js": "/GOKBORU/static/js/main.9b03649a.js",
     "static/media/whatsapp.jpg": "/GOKBORU/static/media/whatsapp.f0e45d0f18124fe756a4.jpg",
     "static/media/back.jpg": "/GOKBORU/static/media/back.d3fefc47fb2a30684b7a.jpg",
     "static/media/python.jpg": "/GOKBORU/static/media/python.dd44d9d98f91f7081f0d.jpg",
@@ -14,11 +14,11 @@
     "static/media/java.jpg": "/GOKBORU/static/media/java.75913f1f90440073e698.jpg",
     "static/media/react.jpg": "/GOKBORU/static/media/react.7c262d650a673ac54510.jpg",
     "index.html": "/GOKBORU/index.html",
-    "main.d5934338.css.map": "/GOKBORU/static/css/main.d5934338.css.map",
-    "main.d438e6d0.js.map": "/GOKBORU/static/js/main.d438e6d0.js.map"
+    "main.2c8d0b09.css.map": "/GOKBORU/static/css/main.2c8d0b09.css.map",
+    "main.9b03649a.js.map": "/GOKBORU/static/js/main.9b03649a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5934338.css",
-    "static/js/main.d438e6d0.js"
+    "static/css/main.2c8d0b09.css",
+    "static/js/main.9b03649a.js"
   ]
 }
