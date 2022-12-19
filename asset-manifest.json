@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GOKBORU/static/css/main.0d781b8d.css",
-    "main.js": "/GOKBORU/static/js/main.93d9481e.js",
-    "static/media/certi.png": "/GOKBORU/static/media/certi.25f43bc8175735bd72bd.png",
+    "main.js": "/GOKBORU/static/js/main.e39edf58.js",
+    "static/media/certi.png": "/GOKBORU/static/media/certi.364f0c206865fedb4a4a.png",
     "static/media/whatsapp.jpg": "/GOKBORU/static/media/whatsapp.f0e45d0f18124fe756a4.jpg",
     "static/media/back.jpg": "/GOKBORU/static/media/back.d3fefc47fb2a30684b7a.jpg",
     "static/media/peakpx.jpg": "/GOKBORU/static/media/peakpx.ddf30b7468122ccfbc58.jpg",
@@ -22,10 +22,10 @@
     "static/media/react.jpg": "/GOKBORU/static/media/react.7c262d650a673ac54510.jpg",
     "index.html": "/GOKBORU/index.html",
     "main.0d781b8d.css.map": "/GOKBORU/static/css/main.0d781b8d.css.map",
-    "main.93d9481e.js.map": "/GOKBORU/static/js/main.93d9481e.js.map"
+    "main.e39edf58.js.map": "/GOKBORU/static/js/main.e39edf58.js.map"
   },
   "entrypoints": [
     "static/css/main.0d781b8d.css",
-    "static/js/main.93d9481e.js"
+    "static/js/main.e39edf58.js"
   ]
 }
