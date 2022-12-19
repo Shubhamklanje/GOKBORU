@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/GOKBORU/static/css/main.0d781b8d.css",
-    "main.js": "/GOKBORU/static/js/main.e39edf58.js",
+    "main.css": "/GOKBORU/static/css/main.0b086714.css",
+    "main.js": "/GOKBORU/static/js/main.7248d1bf.js",
     "static/media/certi.png": "/GOKBORU/static/media/certi.364f0c206865fedb4a4a.png",
     "static/media/whatsapp.jpg": "/GOKBORU/static/media/whatsapp.f0e45d0f18124fe756a4.jpg",
     "static/media/back.jpg": "/GOKBORU/static/media/back.d3fefc47fb2a30684b7a.jpg",
     "static/media/peakpx.jpg": "/GOKBORU/static/media/peakpx.ddf30b7468122ccfbc58.jpg",
     "static/media/rp.jpg": "/GOKBORU/static/media/rp.a1b802dbb813d08a657b.jpg",
+    "static/media/Slack.jpg": "/GOKBORU/static/media/Slack.6dbf3d4d71347e5baecd.jpg",
     "static/media/Rongjam.ttf": "/GOKBORU/static/media/Rongjam.a21fdd28e6e9b9dc5e54.ttf",
     "static/media/mentor3.png": "/GOKBORU/static/media/mentor3.9f5d3847b0c70d6fc2b8.png",
     "static/media/unix.jpg": "/GOKBORU/static/media/unix.fb620e51268ef0756a48.jpg",
     "static/media/mentor2.png": "/GOKBORU/static/media/mentor2.a023491bd188827df376.png",
-    "static/media/insta.jpg": "/GOKBORU/static/media/insta.37866f4c34513cc1230f.jpg",
     "static/media/c.jpg": "/GOKBORU/static/media/c.79e9358fe3b5292f380d.jpg",
     "static/media/mentor1.png": "/GOKBORU/static/media/mentor1.35aeeca8b5d96ba18a48.png",
     "static/media/node.jpg": "/GOKBORU/static/media/node.11f199115c95f8e57feb.jpg",
     "static/media/operating.jpg": "/GOKBORU/static/media/operating.86881c6887435f41a551.jpg",
     "static/media/mentor4.png": "/GOKBORU/static/media/mentor4.a38b646531c45efaae58.png",
+    "static/media/linkedin.jpg": "/GOKBORU/static/media/linkedin.18ac86fda95f556f2a91.jpg",
     "static/media/database.jpg": "/GOKBORU/static/media/database.fe196887a924c2f33da4.jpg",
     "static/media/java.jpg": "/GOKBORU/static/media/java.75913f1f90440073e698.jpg",
     "static/media/react.jpg": "/GOKBORU/static/media/react.7c262d650a673ac54510.jpg",
     "index.html": "/GOKBORU/index.html",
-    "main.0d781b8d.css.map": "/GOKBORU/static/css/main.0d781b8d.css.map",
-    "main.e39edf58.js.map": "/GOKBORU/static/js/main.e39edf58.js.map"
+    "main.0b086714.css.map": "/GOKBORU/static/css/main.0b086714.css.map",
+    "main.7248d1bf.js.map": "/GOKBORU/static/js/main.7248d1bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d781b8d.css",
-    "static/js/main.e39edf58.js"
+    "static/css/main.0b086714.css",
+    "static/js/main.7248d1bf.js"
   ]
 }
