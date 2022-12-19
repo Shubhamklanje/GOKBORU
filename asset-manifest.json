@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/GOKBORU/static/css/main.641fc50b.css",
-    "main.js": "/GOKBORU/static/js/main.393ed8eb.js",
-    "static/media/certi.png": "/GOKBORU/static/media/certi.364f0c206865fedb4a4a.png",
+    "main.js": "/GOKBORU/static/js/main.333314fd.js",
     "static/media/whatsapp.jpg": "/GOKBORU/static/media/whatsapp.f0e45d0f18124fe756a4.jpg",
     "static/media/back.jpg": "/GOKBORU/static/media/back.d3fefc47fb2a30684b7a.jpg",
     "static/media/peakpx.jpg": "/GOKBORU/static/media/peakpx.ddf30b7468122ccfbc58.jpg",
     "static/media/rp.jpg": "/GOKBORU/static/media/rp.a1b802dbb813d08a657b.jpg",
+    "static/media/certi.png": "/GOKBORU/static/media/certi.510a8df277341f36f77b.png",
     "static/media/Slack.jpg": "/GOKBORU/static/media/Slack.6dbf3d4d71347e5baecd.jpg",
     "static/media/Rongjam.ttf": "/GOKBORU/static/media/Rongjam.a21fdd28e6e9b9dc5e54.ttf",
     "static/media/mentor3.png": "/GOKBORU/static/media/mentor3.9f5d3847b0c70d6fc2b8.png",
@@ -23,10 +23,10 @@
     "static/media/react.jpg": "/GOKBORU/static/media/react.7c262d650a673ac54510.jpg",
     "index.html": "/GOKBORU/index.html",
     "main.641fc50b.css.map": "/GOKBORU/static/css/main.641fc50b.css.map",
-    "main.393ed8eb.js.map": "/GOKBORU/static/js/main.393ed8eb.js.map"
+    "main.333314fd.js.map": "/GOKBORU/static/js/main.333314fd.js.map"
   },
   "entrypoints": [
     "static/css/main.641fc50b.css",
-    "static/js/main.393ed8eb.js"
+    "static/js/main.333314fd.js"
   ]
 }
